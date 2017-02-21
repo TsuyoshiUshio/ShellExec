@@ -4,10 +4,7 @@
     "name": "Shell exec task without file",
     "description": "Execute commands which your write on the Task",
     "version": "0.0.1",
-    "publisher": "Tsuyoshi Ushio",
-    "galleryFlags": [
-        "Preview"
-    ],
+    "publisher": "TsuyoshiUshio",
     "targets": [
         {
             "id": "Microsoft.VisualStudio.Services"
