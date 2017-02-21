@@ -1,0 +1,48 @@
+{
+    "manifestVersion": 1,
+    "id": "shell-exec",
+    "name": "Shell exec task without file",
+    "description": "Execute commands which your write on the Task",
+    "version": "0.0.1",
+    "publisher": "Tsuyoshi Ushio",
+    "galleryFlags": [
+        "Preview"
+    ],
+    "targets": [
+        {
+            "id": "Microsoft.VisualStudio.Services"
+        }
+    ],
+    "categories": [
+        "Build and release"
+    ],
+    "icons": {
+        "default": "images/logo.png"
+    },
+    "tags": [
+        "shell"
+    ],
+    "content": {
+        "details": {
+            "path": "shellexec.md"
+        }
+    },
+    "files": [
+        {
+            "path": "tasks/general"
+        }
+    ],
+    "contributions": [
+        {
+            "id": "shellexec",
+            "description": "Execute commands without file",
+            "type": "ms.vss-distributed-task.task",
+            "targets": [
+                "ms.vss-distributed-task.tasks"
+            ],
+            "properties": {
+                "name": "tasks/general"
+            }
+        }
+    ]
+}

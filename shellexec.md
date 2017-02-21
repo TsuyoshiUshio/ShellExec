@@ -25,3 +25,9 @@ I could folk it and add shell file, but I don't like the idea.
 Using this command, you don't need to add file for execute some commands.
 Also, it is very useful to debug/test something. Although this is simple task,
 it is really useful. That is why I make this publish.
+
+
+
+
+
+
