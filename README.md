@@ -11,7 +11,7 @@ Usage
 
 Just list your command on the "Code" text area. 
 I tested with Linux Hoste Build (Preview).
-This task simply create `./.tempexecution.sh` by the Code then execute it.
+This task simply creates `./.tempexecution.sh` by the Code then execute it.
 
 Very simple solution.
 
@@ -22,6 +22,6 @@ I don't want to add a file to execute something.
 The pipeline is for someone's GitHub account, so I don't want to add anything.
 I could folk it and add shell file, but I don't like the idea.
 
-Using this command, you don't need to add file for execute some commands.
-Also, it is very useful to debug/test something. Although this is simple task,
-it is really useful. That is why I make this publish.
+Using this command, you don't need to add a file for executing some commands.
+Also, it is very useful to debug/test something. Although this is a simple task,
+it is helpful. That is why I make this publish.
