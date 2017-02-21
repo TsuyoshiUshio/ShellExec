@@ -4,7 +4,7 @@ Shell Exec extension
 This is the VSTS task which enables us to execute shell commands
 on the task.
 
-![Shell Exec task](https://raw.githubusercontent.com/TsuyoshiUshio/KubernetesTask/master/docs/images/usage.png)
+![Shell Exec task](https://raw.githubusercontent.com/TsuyoshiUshio/ShellExec/master/docs/images/usage.png)
 
 Usage
 ===
