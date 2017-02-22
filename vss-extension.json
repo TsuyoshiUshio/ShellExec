@@ -3,8 +3,11 @@
     "id": "shell-exec",
     "name": "Shell exec task without file",
     "description": "Execute commands which your write on the Task",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "publisher": "TsuyoshiUshio",
+    "galleryFlags": [
+      "Public"
+    ],
     "targets": [
         {
             "id": "Microsoft.VisualStudio.Services"
