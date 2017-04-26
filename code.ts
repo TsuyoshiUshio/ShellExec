@@ -16,7 +16,7 @@ async function run() {
     bash.arg(filename);
 
     try {
-        bash.exec();
+        await bash.exec();
         tl.setResult(tl.TaskResult.Succeeded, "Code works.");
     }
     catch (err) {
