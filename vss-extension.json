@@ -3,7 +3,7 @@
     "id": "shell-exec",
     "name": "Shell exec task without file",
     "description": "Execute commands which your write on the Task",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "publisher": "TsuyoshiUshio",
     "galleryFlags": [
       "Public"
